@@ -5,6 +5,7 @@ Plugin Name:  Reveal Blocks
 Description:  Adds "Reveal Blocks" toggle to the admin bar when the block editor is open. Toggle on to outline blocks. Also reveals drop zones when dragging a block.
 Author:       WolfEsq
 Author URI:   https://github.com/WolfEsq
+Plugin URI:   https://github.com/WolfEsq/reveal-blocks
 License:      GPLv2-or-later
 License URI:  http://www.opensource.org/licenses/gpl-license.php
 */
